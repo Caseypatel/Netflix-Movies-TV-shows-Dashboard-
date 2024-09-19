@@ -1,4 +1,4 @@
-# Netflix-Movies-TV-shows-Dashboard
+<h1 align="center">Netflix-Movies-TV-shows-Dashboard</h1>
 
 I have been tasked with creating a data-driven insights dashboard to analyze the rating distributions of Netflix movies and TV shows, informing the development of new content based on popularity and user ratings.
 
